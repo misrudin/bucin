@@ -271,7 +271,7 @@ async function apapun() {
 
     pemb = "....         ";
 
-    wallpaper.src = "https://wallpaperaccess.com/full/126971.jpg";
+    wallpaper.src = "https://wallpaperaccess.com/full/2214754.jpg";
 
     gambar1 = "https://i.ibb.co/4Ppd5jv/snuggles-caring-1.gif";
     const url_string = window.location;
