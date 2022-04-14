@@ -276,7 +276,7 @@ async function apapun() {
     gambar1 = "https://i.ibb.co/4Ppd5jv/snuggles-caring-1.gif";
     const url_string = window.location;
     const url = new URL(url_string);
-    const name = url.searchParams.get('nembak') ?? "Eka Nurcahyati"
+    const name = url.searchParams.get('lamar') ?? "Eka Nurcahyati"
     kata1 = "Hai " + name + " &#10084;";
 
     gambar2 = "https://i.ibb.co/mtWVxKH/gigit.gif";
